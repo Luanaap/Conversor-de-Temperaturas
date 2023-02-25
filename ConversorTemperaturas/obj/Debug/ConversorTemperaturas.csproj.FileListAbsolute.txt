@@ -1,0 +1,8 @@
+C:\Luana-cursos\ConversorTemperaturas\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.exe.config
+C:\Luana-cursos\ConversorTemperaturas\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.exe
+C:\Luana-cursos\ConversorTemperaturas\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.pdb
+C:\Luana-cursos\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.csproj.AssemblyReference.cache
+C:\Luana-cursos\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.exe
+C:\Luana-cursos\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.pdb
